@@ -1,0 +1,5 @@
+FILE DELETED
+------------
+
+Antigen for Exchange removed GetEbayCategories.zip->GetEbayCategories.exe since it
+was found to match the FILE FILTER= *.exe file filter.
